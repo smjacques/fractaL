@@ -1,2 +1,2 @@
 # fractaL
-Environmental data projections using PureData and Processing
+Environmental data projections using Supercollider and Processing
