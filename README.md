@@ -1,2 +1,2 @@
 # fractaL
-Environmental data projections using Supercollider and Processing
+A EcoArt experience integrating ecological studies, social participation and open source learning.
