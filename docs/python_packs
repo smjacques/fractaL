@@ -1,0 +1,7 @@
+1- Install Python3
+2- Install Spyder3
+3- Install Spyder Notebook
+    - https://github.com/spyder-ide/spyder-notebook
+    - using terminal:
+        pip3 install spyder-notbook
+

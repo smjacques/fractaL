@@ -1,2 +1,3 @@
-# fractaL
-The EcoArt experience integrating ecological studies, social participation and open source learning.
+## fractaL
+
+An artistic installation and a learning tool using synesthesia for bringing meaning to ecological data.
