@@ -1,5 +1,6 @@
-### NOW YOU CAN FIND THE PROJECT HERE https://github.com/ecofractaL/fractal
+### NOW YOU CAN FIND THE PROJECT HERE hhttps://gitlab.com/ecofractal/fractal
+https://ecofractal.gitlab.io/
 
 ## fractaL
 
-An artistic installation and a learning tool using synesthesia for bringing meaning to ecological data.
+A tool for digital literacy and ecological thinking
