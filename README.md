@@ -1,4 +1,4 @@
-### NOW YOU CAN FIND THE PROJECT HERE hhttps://gitlab.com/ecofractal/fractal
+### NOW YOU CAN FIND THE PROJECT HERE https://gitlab.com/ecofractal/fractal
 https://ecofractal.gitlab.io/
 
 ## fractaL
